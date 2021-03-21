@@ -1,0 +1,124 @@
+
+
+h1 {
+  margin:50px auto 0 0;
+  font-family:'Sacramento', cursive;
+  font-size: 5.62rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight:bold;
+  color:#66BFBF;
+  margin: 0;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  font-weight:bold;
+  color:#11999E;
+}
+
+body {
+  text-align: center;
+  font-family: 'Merriweather', sans-serif;
+}
+
+hr {
+  border: dotted 6px;
+  color: #66BFBF;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+p {
+  color: rgb(168, 160, 149);
+  line-height: 2;
+}
+
+.intro {
+  width: 300px;
+  margin: auto;
+}
+
+.FirstCloud {
+  position: absolute;
+  left: 1000px;
+  top:50px
+}
+
+.SecondCloud {
+  position: absolute;
+}
+
+.python {
+  width: 15.5%;
+  height: auto;
+  float: left;
+  margin-right: 30px;
+}
+
+.html {
+  width: 12.5%;
+  height: auto;
+  float:right;
+  margin-left: 30px;
+}
+
+.FirstContainer {
+  position:relative;
+  padding-top: 100px;
+  background-color: #edffec;
+}
+
+.web {
+  text-decoration: underline;
+}
+
+.middle-container {
+}
+
+.skill-row {
+  width:50%;
+  height: auto;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding:50px;
+}
+
+.copyright {
+  margin-top:50px;
+  color: #EAF6F6;
+}
+
+
+
+.btn {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  height: 14px;
+  line-height: 14px;
+  color: #FFFFFF;
+  font-family: Arial;
+  width: 185px;
+  font-size: 20px;
+  font-weight: 900;
+  padding: 12px;
+  background-color: #11999E;
+  text-shadow: 1px 1px 6px #000000;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin: 25px auto 50px auto;
+}
