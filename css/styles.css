@@ -46,8 +46,8 @@ p {
 }
 
 .FirstCloud {
-  position: absolute;
-  left: 1000px;
+  position: relative;
+  left: 300px;
   top:50px
 }
 
